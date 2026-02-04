@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Get started
+# Get started today
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
 
